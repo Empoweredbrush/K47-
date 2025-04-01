@@ -1,6 +1,6 @@
 using System;
 
-namespace MyApp
+namespace Konflikt
 {
     internal class Program
     {

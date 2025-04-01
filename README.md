@@ -1,4 +1,4 @@
-# Project Name: Konflikt 47 army tracker
+# Project Name: 
 
 # Author: Shon Ashby
 
